@@ -1,11 +1,11 @@
-About r-mdscore
-===============
+About r-mdscore-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mdscore-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=mdscore
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mdscore-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of functions to obtain modified score test for generalized linear models.
 
