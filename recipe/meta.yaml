@@ -12,7 +12,7 @@ source:
   sha256: 12f5841258f7d9bdc8074244bfb76482df0e480f09835d666c90a5364d2e9481
 
 build:
-  number: 3
+  number: 4
   noarch: generic
 
   rpaths:
