@@ -3,7 +3,7 @@ About r-mdscore-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-mdscore-feedstock/blob/main/LICENSE.txt)
 
-Home: https://CRAN.R-project.org/package=mdscore
+Home: https://codeberg.org/iagogv/mdscore
 
 Package license: GPL-2.0-or-later
 
